@@ -5,5 +5,7 @@ public class Main {
         System.out.println("My first application");
 
         System.out.println("XXXXX");
+
+        System.out.println("This is super-feature");
     }
 }
